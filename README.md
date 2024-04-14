@@ -6,7 +6,7 @@ This project contains a Jupyter Notebook that outlines the development of a mach
 
 ## Features
 
-The notebook `Income_Prediction.ipynb` includes the following key sections:
+The notebook `Income.ipynb` includes the following key sections:
 
 - **Data Exploration**: Visualization and statistical analysis to understand the distribution of data and the relationship between different features.
 - **Data Preprocessing**: Techniques applied to clean and prepare the data for modeling, such as handling missing values, encoding categorical variables, and feature scaling.
