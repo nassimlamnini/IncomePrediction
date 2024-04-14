@@ -25,3 +25,12 @@ Before running the notebook, ensure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+## Contributing
+
+Contributions to this project are welcome. You can contribute in several ways:
+
+- 'By reporting bugs'
+- 'Suggesting enhancements'
+- 'Extending the dataset or model features'
+
+Thanks for visiting this repo and don't hesitate to contact me if needed
