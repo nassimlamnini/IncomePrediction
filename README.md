@@ -12,7 +12,7 @@ The notebook `Income.ipynb` includes the following key sections:
 - **Data Preprocessing**: Techniques applied to clean and prepare the data for modeling, such as handling missing values, encoding categorical variables, and feature scaling.
 - **Model Building**: Implementation of various machine learning algorithms to train the income prediction model.
 - **Model Evaluation**: Evaluation of model performance using appropriate metrics such as accuracy, precision, recall, and F1-score.
-- **Model Optimization**: Techniques such as hyperparameter tuning and cross-validation to enhance model performance.
+- **Model Optimization**: Techniques such as hyperparameter tuning to enhance model performance.
 - **Prediction**: Using the model to make predictions on new data.
 
 ## Data
